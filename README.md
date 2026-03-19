@@ -1,4 +1,4 @@
-Cyber Attack Prediction using AI
+**Cyber Attack Prediction using AI**
 Overview
 
 This project implements an AI-driven cybersecurity system for detecting and predicting cyber attacks using Machine Learning, Deep Learning, Explainable AI, and Generative AI techniques. The system focuses on proactive threat detection through anomaly analysis, classification models, and intelligent pattern recognition across network and system data.
